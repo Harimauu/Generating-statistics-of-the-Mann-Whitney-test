@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623238784 source:c:\users\wikas\onedrive\Рабочий стол\Компьютерные технологии моделирования и анализа данных\Курсовая\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<string>
+	<chrono>
+
+1641220417 source:c:\users\wikas\onedrive\Рабочий стол\my files\Учёба\Семестр 2\Компьютерные технологии моделирования и анализа данных\Курсовая\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<string>
+	<chrono>
+
+1641220417 source:c:\users\wikas\onedrive\Рабочий стол\my files\Учёба\Семестр 2\Компьютерные технологии моделирования и анализа данных\Генерация статистики критерия Манна-Уитни\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<string>
+	<chrono>
+
